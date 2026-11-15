@@ -47,7 +47,7 @@ copy-paste instead; it's the same prompt.
 If your agent's environment allows fetching URLs (many, like Codex sandboxes, do not), you can skip the paste:
 
 ```
-Fetch https://raw.githubusercontent.com/strontiumplatform/VideoExpress.ai-Full-Length-Consistent-Character-Realistic-Talking-Avatar-Video-Workflow/main/SYSTEM_PROMPT.md and follow it exactly as your instructions.
+Fetch https://raw.githubusercontent.com/RefDig/VideoExpress.ai-Full-Length-Consistent-Character-Realistic-Talking-Avatar-Video-Workflow/lys/SYSTEM_PROMPT.md and follow it exactly as your instructions.
 ```
 
 If the agent says it can't retrieve the file, don't troubleshoot — just use the Quick start paste instead.

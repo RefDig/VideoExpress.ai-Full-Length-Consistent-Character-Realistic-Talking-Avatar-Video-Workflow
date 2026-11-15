@@ -3,7 +3,7 @@ CANONICAL SOURCE (OPTIONAL — never required, never blocking)
 THIS DOCUMENT IS COMPLETE AND SELF-CONTAINED. You need nothing else to do the job.
 
 The maintained copy lives at:
-  https://raw.githubusercontent.com/strontiumplatform/VideoExpress.ai-Full-Length-Consistent-Character-Realistic-Talking-Avatar-Video-Workflow/main/SYSTEM_PROMPT.md
+  https://raw.githubusercontent.com/RefDig/VideoExpress.ai-Full-Length-Consistent-Character-Realistic-Talking-Avatar-Video-Workflow/lys/SYSTEM_PROMPT.md
 IF AND ONLY IF your runtime can fetch URLs without any user involvement, you may
 fetch it once at the start and use the newer version. Many runtimes (Codex and other
 sandboxes) block network access — that is NORMAL and FINE.
